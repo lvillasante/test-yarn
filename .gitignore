@@ -1,0 +1,7 @@
+docs
+nbproject
+npm-debug.log
+node_modules
+vendors
+.sass-cache
+.DS_Store
